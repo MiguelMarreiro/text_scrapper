@@ -1,0 +1,28 @@
+The text in the image reads:
+
+**THE EMOTION BEHIND FONTS**
+
+**SERIF**
+- Traditional: Minion Pro
+- STABLE: Trajan
+- Respectable: Baskerville
+
+**SANS-SERIF**
+- Sensible: Helvetica
+- SIMPLE: Avenir
+- STRAIGHTFORWARD: Din
+
+**SCRIPT**
+- Personal: Freestyle Script
+- Creative: Adios Script Pro
+- Elegant: Snell Roundhand
+
+**DISPLAY**
+- Friendly: Vag Rounded
+- LOUD: Gin
+- Amusing: Thirsty Rough
+
+**MODERN**
+- Stylish: Sackers Gothic
+- CHIC: Gotham
+- SMART: Futura
